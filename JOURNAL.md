@@ -6,11 +6,18 @@
   ==================================================================
 -->
 
-## 10/26/2025 - testing  
+## 10/26/2025 2:27 PM - testing  
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc1MywicHVyIjoiYmxvYl9pZCJ9fQ==--dcd8b61241bd0337ba1009c8047d69e3fb3b850e/image.png)
 made the basic cad for the box and set it 3d printing
 decided that I'm going to make this configurable to work with any laptop
 and just cut the plastic myself
   
+
+## 10/26/2025 2:38 PM - got the computer part  
+
+![PXL_20251026_182946184](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--9c3abb7e174c23c0efdc1d7112acf193daf0ebdf/PXL_20251026_182946184.jpg)
+tore apart an old HP 17z-ca200 to get the electronics inside
+it doesn't have a bios battery so it will just have to stay plugged in
+i'll probably wire up a usb hub that i have so it can be more durable  
 
