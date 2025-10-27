@@ -21,3 +21,10 @@ tore apart an old HP 17z-ca200 to get the electronics inside
 it doesn't have a bios battery so it will just have to stay plugged in
 i'll probably wire up a usb hub that i have so it can be more durable  
 
+## 10/26/2025 9 PM - printing   
+
+started printing the case for the new computer. 
+Decided to use a pegs-based system to mount he board with the screws that it came with.
+will need to do a lot of gluing.![PXL_20251027_005741812](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c0b1a0b323a78028bff99a057328d8a6d63e8891/PXL_20251027_005741812.jpg)
+  
+
