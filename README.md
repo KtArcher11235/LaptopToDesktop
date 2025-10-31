@@ -1,3 +1,4 @@
 # LaptopToDesktop
 making a desktop from a laptop
-you can find the onshape <a href="https://cad.onshape.com/documents/119253da891d8e3245ef7dcf/w/4ce91ff017f0e0c2d6eeb039/e/43b8a0fbfd1931149223f89a?renderMode=0&uiState=690522346415adc3b92b0360">here</a> https://cad.onshape.com/documents/119253da891d8e3245ef7dcf/w/4ce91ff017f0e0c2d6eeb039/e/43b8a0fbfd1931149223f89a?renderMode=0&uiState=690522346415adc3b92b0360
+I had an old <a href="https://www.hp.com/us-en/shop/pdp/hp-laptop-17z-ca200-8yk85av-1#recommendedAccessories">laptop</a>, it is no longer made bout you can probably find one on ebay
+you can find the onshape <a href="https://cad.onshape.com/documents/119253da891d8e3245ef7dcf/w/4ce91ff017f0e0c2d6eeb039/e/43b8a0fbfd1931149223f89a?renderMode=0&uiState=690522346415adc3b92b0360">here</a> 
