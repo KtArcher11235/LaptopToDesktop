@@ -28,3 +28,14 @@ Decided to use a pegs-based system to mount he board with the screws that it cam
 will need to do a lot of gluing.![PXL_20251027_005741812](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c0b1a0b323a78028bff99a057328d8a6d63e8891/PXL_20251027_005741812.jpg)
   
 
+## 10/31/2025 - glued  
+
+finished printing
+tried hot glue but it dried too fast
+used gorilla glue and it worked (the plastic was pla)
+waited for it to dry (not included in time)
+got the extremely sophisticated clamps off (a wad of tape)
+
+![PXL_20251031_204004575](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzE4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--d5a4744f4786fd3a42f493ad9cc1a79cf2df0a51/PXL_20251031_204004575.jpg)
+  
+
