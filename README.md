@@ -9,5 +9,8 @@ and <a href="https://github.com/KtArcher11235/LaptopToDesktop/raw/refs/heads/mai
 <br>
 you can find the onshape <a href="https://cad.onshape.com/documents/119253da891d8e3245ef7dcf/w/4ce91ff017f0e0c2d6eeb039/e/43b8a0fbfd1931149223f89a?renderMode=0&uiState=690522346415adc3b92b0360">here</a> 
 # Printing
-I printed out of pla, 0.3 mm layer height, 5% gyroid infill on my prusa mk3s+ from prusa slicer.
+I printed out of pla, 0.3 mm layer height, 5% gyroid infill on my prusa mk3s+ from prusa slicer. Smallest side down (because my printer can't do long distances)<br>
+<img width="1295" height="970" alt="image" src="https://github.com/user-attachments/assets/7e01e6cb-12b7-405a-ab03-ab5ed9c746bd" />
+<br>
+glue can hold the pecies together I used gorilla glue
 
