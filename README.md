@@ -8,6 +8,6 @@ click <a href="https://github.com/KtArcher11235/LaptopToDesktop/raw/refs/heads/m
 and <a href="https://github.com/KtArcher11235/LaptopToDesktop/raw/refs/heads/main/STEP_CAD.zip" >here </a> for the .STEP files
 <br>
 you can find the onshape <a href="https://cad.onshape.com/documents/119253da891d8e3245ef7dcf/w/4ce91ff017f0e0c2d6eeb039/e/43b8a0fbfd1931149223f89a?renderMode=0&uiState=690522346415adc3b92b0360">here</a> 
-#Printing
+# Printing
 I printed out of pla, 0.3 mm layer height, 5% gyroid infill on my prusa mk3s+ from prusa slicer.
 
