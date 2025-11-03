@@ -12,7 +12,10 @@ you can find the onshape <a href="https://cad.onshape.com/documents/119253da891d
 I printed out of pla, 0.3 mm layer height, 5% gyroid infill on my prusa mk3s+ from prusa slicer. Smallest side down (because my printer can't do long distances)<br>
 <img width="1295" height="970" alt="image" src="https://github.com/user-attachments/assets/7e01e6cb-12b7-405a-ab03-ab5ed9c746bd" />
 <br>
-glue can hold the pecies together I used gorilla glue
+glue can hold the pecies together I used gorilla glue <br>
 For the peg:
+<img width="1357" height="982" alt="image" src="https://github.com/user-attachments/assets/b33c341d-f64a-4e93-a0eb-f8749b8a61ac" />
+I printed at 0.3 mm layer height at 100% infill. It probably works other ways too.
+
 
 
