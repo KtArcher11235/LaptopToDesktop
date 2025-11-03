@@ -39,3 +39,11 @@ got the extremely sophisticated clamps off (a wad of tape)
 ![PXL_20251031_204004575](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzE4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--d5a4744f4786fd3a42f493ad9cc1a79cf2df0a51/PXL_20251031_204004575.jpg)
   
 
+## 11/2/2025 - cuting  
+
+cut the frame so that it had the holes for ports.
+I chose to make it a solid frame that the user had to cut in order to make it work with more laptops than mine.
+Caded the pegs for the screws to hole the board to the frame, I also made them glue-able so that they would work with any board.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--58eda6ebbe7fd7cb5ffce960b299d9b06976a217/image.png)
+  
+
