@@ -13,4 +13,6 @@ I printed out of pla, 0.3 mm layer height, 5% gyroid infill on my prusa mk3s+ fr
 <img width="1295" height="970" alt="image" src="https://github.com/user-attachments/assets/7e01e6cb-12b7-405a-ab03-ab5ed9c746bd" />
 <br>
 glue can hold the pecies together I used gorilla glue
+For the peg:
+
 
