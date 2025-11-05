@@ -47,3 +47,13 @@ Caded the pegs for the screws to hole the board to the frame, I also made them g
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--58eda6ebbe7fd7cb5ffce960b299d9b06976a217/image.png)
   
 
+## 11/4/2025 - finished  
+
+Got it glued together, and put the board in.
+It is pretty bad, but it works.
+the ssd is glued in, but that is because it lacks a longer cable and it wouldn't fit anywhere.
+It boots I think
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--a83c655ca2cc93652549b605a451118ce022af85/image.png)
+  
+
