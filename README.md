@@ -28,7 +28,7 @@ It's open source, go crazy.
 ## BOM
 | item                                             | aprox. price |                                                                        |
 |--------------------------------------------------|--------------|------------------------------------------------------------------------|
-| >1kg 3d printer plastic                          | ~30          |                                                                        |
+| >1kg 3d printer plastic                          | ~20          |                                                                        |
 | - all of the frame parts                         |              |                                                                        |
 | -enough pegs for your laptop                     |              |                                                                        |
 | laptop (used preferably)                         | ~ 0 -2000$   | I used https://www.hp.com/us-en/shop/pdp/hp-laptop-17z-ca200-8yk85av-1 |
