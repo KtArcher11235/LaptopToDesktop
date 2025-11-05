@@ -25,5 +25,15 @@ The laptop motherboard can then just screw into the pegs.
 The wifi chip can either go into a normal peg or you can also edit the .step peg. It is the same with the ssd. Most other stuff can get glued.
 ## Customize
 It's open source, go crazy.
+## BOM
+| item                                             | aprox. price |                                                                        |
+|--------------------------------------------------|--------------|------------------------------------------------------------------------|
+| >1kg 3d printer plastic                          | ~30          |                                                                        |
+| - all of the frame parts                         |              |                                                                        |
+| -enough pegs for your laptop                     |              |                                                                        |
+| laptop (used preferably)                         | ~ 0 -2000$   | I used https://www.hp.com/us-en/shop/pdp/hp-laptop-17z-ca200-8yk85av-1 |
+| -screws that came in laptop to hold board to peg |              |                                                                        |
+| Glue                                             | ~20 ish      | I used https://gorillatough.com/product/gorilla-clear-grip/            |
+
 
 
