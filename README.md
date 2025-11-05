@@ -1,6 +1,6 @@
 # LaptopToDesktop
-![mail google](https://github.com/user-attachments/assets/8ac1494a-abed-4eb2-b8d1-162932f8c25a)
-
+!(https://github.com/user-attachments/assets/8ac1494a-abed-4eb2-b8d1-162932f8c25a)
+<br>
 Making a desktop from a laptop
 I had an old <a href="https://www.hp.com/us-en/shop/pdp/hp-laptop-17z-ca200-8yk85av-1">laptop</a>, it is no longer made but you can probably find one on ebay. I've made it so that you can just put any board into it.
 <br>
