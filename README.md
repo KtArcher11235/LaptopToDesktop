@@ -1,6 +1,7 @@
 # LaptopToDesktop
 Making a desktop from a laptop<br>
-<img src="https://github.com/user-attachments/assets/8ac1494a-abed-4eb2-b8d1-162932f8c25a">
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/7e56242e-54a4-4ed0-b076-0bb04d32d44e" />
+
 <br>
 
 I had an old <a href="https://www.hp.com/us-en/shop/pdp/hp-laptop-17z-ca200-8yk85av-1">laptop</a>, but it no longer worked, so I decided to turn it into a desktop. This will let you turn any old motherboard from a laptop, into a desktop.
