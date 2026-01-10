@@ -18,6 +18,7 @@ glue can hold the parts together, I used gorilla glue <br>
 For the peg:<br>
 <img width="50%"  src="https://github.com/user-attachments/assets/b33c341d-f64a-4e93-a0eb-f8749b8a61ac" /><br>
 I printed at 0.3 mm layer height at 100% infill. It probably works other ways too. You can print a whole bunch at once.
+everything else isn't important.
 <br><br>
 ## Assembly 
 once it prints you can glue the frame together and the pegs into place. Make sure to also cut holes for the ports.
@@ -35,6 +36,6 @@ It's open source, go crazy.
 | laptop (used preferably)                         | ~ 0 -2000$   | I used https://www.hp.com/us-en/shop/pdp/hp-laptop-17z-ca200-8yk85av-1 |
 | -screws that came in laptop to hold board to peg |              |                                                                        |
 | Glue                                             | ~20 ish      | I used https://gorillatough.com/product/gorilla-clear-grip/            |
-
+| Acrylic sheet | ~20 ish | I got it from lowes
 
 
